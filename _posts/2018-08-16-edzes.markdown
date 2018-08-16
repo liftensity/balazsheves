@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Edzés!"
+date:   2018-08-16 20:53:40
+categories: jekyll update
+---
+Sziasztok! Megjelent az új lemezem! Kapható a zöldséges boltokban!
