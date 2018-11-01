@@ -7,13 +7,13 @@
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+    {% include banner.html %}
+
+    {{ content }}
 
     {% include footer.html %}
+
+    {% include js.html %}
 
   </body>
 
